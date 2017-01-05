@@ -77,5 +77,33 @@
   {
     "key": "shift+cmd+r",
     "command": "workbench.action.replaceInFiles"
+  },
+  {
+    "key": "alt+up",
+    "command": "editor.action.smartSelect.grow"
+  },
+  {
+    "key": "alt+down",
+    "command": "editor.action.smartSelect.shrink"
+  },
+  {
+    "key": "cmd+backspace",
+    "command": "editor.action.deleteLines"
+  },
+  {
+    "key": "ctrl+left",
+    "command": "workbench.action.previousEditor"
+  },
+  {
+    "key": "ctrl+right",
+    "command": "workbench.action.nextEditor"
+  },
+  {
+    "key": "cmd+[",
+    "command": "editor.fold"
+  },
+  {
+    "key": "cmd+]",
+    "command": "editor.unfold"
   }
 ]
